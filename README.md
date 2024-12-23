@@ -27,7 +27,8 @@ An intuitive and user-friendly e-commerce platform built with Django, offering f
 - **Payment Integration**: PayPal API
 
 ## Screenshots
-
+   ![MAIN Ui](https://raw.githubusercontent.com/bit-milind42/E-commerce/refs/heads/main/E-com%201.png)
+   ![Checkout](https://raw.githubusercontent.com/bit-milind42/E-commerce/refs/heads/main/E-com%202.png)
 
 
 ## Setup Instructions  
