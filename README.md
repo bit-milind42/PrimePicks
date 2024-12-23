@@ -24,7 +24,11 @@ An intuitive and user-friendly e-commerce platform built with Django, offering f
 
 - **Backend**: Django  
 - **Frontend**: HTML, CSS  
-- **Payment Integration**: PayPal API  
+- **Payment Integration**: PayPal API
+
+## Screenshots
+
+
 
 ## Setup Instructions  
 
@@ -33,8 +37,5 @@ An intuitive and user-friendly e-commerce platform built with Django, offering f
 git clone https://github.com/yourusername/ecommerce-platform.git  
 cd ecommerce-platform  
 
-## Screenshots
-(Include screenshots of your application to showcase its UI/UX and features.)
 
-## Contribution
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+
